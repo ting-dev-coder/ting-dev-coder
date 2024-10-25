@@ -12,4 +12,6 @@
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/ting-yu-chen-b9022b223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ting-yu-chen-b9022b223" height="20" width="30" /></a>
+  <a href="https://linkedin.com/in/ting-yu-chen-b9022b223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ting-yu-chen-b9022b223" height="20" width="30" /></a>
+  <a href="mailto:missjoker59@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="30" style="max-width: 100%;"></a>
 </p>
