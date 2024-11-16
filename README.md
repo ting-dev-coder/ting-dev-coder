@@ -2,7 +2,7 @@
 <p align="left">A passionate <b>frontend developer </b> from Taiwan,  Currently I am:</p>
 
 - 👩‍🎓 studying web and mobile application development at North Island College in Canada
-- 🌱 learning Cypress (Testing Frameworks for Javascript) ...
+- 🌱 learning React.js、Java and Cypress (Testing Frameworks for Javascript) ...
 - ⚡  working remotely as a front-end developer for years
 - 🔭 interested in and exploring backend languages like Java.
 
