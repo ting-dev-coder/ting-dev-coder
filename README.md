@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Ting Yu Chen</h1>
 <p align="left">A passionate <b>frontend developer </b> from Taiwan,  Currently I am:</p>
 
-- 👩‍🎓 studying web and mobile application development at North Island College in Canada
-- 🌱 learning React.js, Java and Cypress (Testing Frameworks for Javascript) ...
+- 👩‍🎓 studying Web and Mobile Application Development at North Island College in Canada
+- 🌱 learning Next.js, Java and Cypress (Testing Frameworks for Javascript) ...
 - ⚡  working remotely as a front-end developer for years
 - 🔭 interested in and exploring backend languages like Java.
 
